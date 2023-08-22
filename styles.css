@@ -14,7 +14,7 @@ body{
    
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
 /*     gap: 10px; */
 }
 .part-1{
@@ -22,7 +22,7 @@ body{
     height: 200px;
     text-align:center;
     border-radius: 10px;
-background-color: #fffffe;
+/* background-color: #fffffe; */
 padding: 10px;
 }
 div>ul{
@@ -39,7 +39,7 @@ div>ul>li{
     height: 300px;
    
     border-radius: 10px;
-    background-color: #fffffe;
+/*     background-color: #fffffe; */
     text-align: center;
     padding: 10px;
     border: none;
@@ -50,7 +50,7 @@ div>ul>li{
     height: 750px;
     
     border-radius: 10px;
-    background-color: #fffffe;
+/*     background-color: #fffffe; */
     padding: 10px;
    text-align: center;
 }
