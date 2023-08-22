@@ -11,7 +11,7 @@ body{
     width: 100%;
 }
 .content{
-    padding:20px;
+   
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -23,7 +23,7 @@ body{
     text-align:center;
     border-radius: 10px;
 background-color: #fffffe;
-padding-top: 10px;
+padding: 10px;
 }
 div>ul{
     padding-top: 3px;
@@ -41,7 +41,7 @@ div>ul>li{
     border-radius: 10px;
     background-color: #fffffe;
     text-align: center;
-    padding-top: 20px;
+    padding: 10px;
     border: none;
     
 }
@@ -51,14 +51,14 @@ div>ul>li{
     
     border-radius: 10px;
     background-color: #fffffe;
-    padding-top: 20px;
+    padding: 10px;
    text-align: center;
 }
 p{
     padding: 30px;
 }
 img{
-    padding-top: 30px;
+    padding-top: 10px;
     width: 80%;
     height: 200px;
     
