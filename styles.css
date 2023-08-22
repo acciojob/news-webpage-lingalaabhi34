@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 10px;
+/*     gap: 10px; */
 }
 .part-1{
     width: 300px;
