@@ -1,8 +1,5 @@
 /*  your css code here. If applicable */
-*{
-    margin: 0px;
-    padding: 0px;
-}
+
 .head{
     background-color:  #011e29;
     color: #feffff;
@@ -23,14 +20,13 @@ body{
 .part-1{
     width: 300px;
     height: 200px;
-    
+    text-align:center;
     border-radius: 10px;
-text-align: center;
 background-color: #fffffe;
-padding-top: 20px;
+padding-top: 10px;
 }
 div>ul{
-    padding-top: 20px;
+    padding-top: 3px;
 }
 div>ul>li{
     width: 80%;
