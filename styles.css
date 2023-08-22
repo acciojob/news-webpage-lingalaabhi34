@@ -3,8 +3,9 @@ body{
     text-align: center;
     width: 100vw;
     padding: 0px;
+	display:inline-block;
 }
-header{
+.header{
     background-color: #011e29;
     color: white;
 	text-align: center;
@@ -12,7 +13,7 @@ header{
 }
 .LatestNews{
 display: flex;
-justify-content: space-around;
+/* justify-content: space-around; */
 }
 .latest-news-section{
     display: flex;
